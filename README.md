@@ -12,7 +12,9 @@ Desarrollar un sistema de visión artificial e inteligencia artificial capaz de 
 
 | Nombre | Matrícula |
 | --- | --- |
-| _Pendiente_ | _Pendiente_ |
+| José Luis Parada Gutiérrez | A00939669 |
+| Kevin Rosario Cota Rodríguez |A01796705 |
+| Rolando David Villarreal Martínez | A00609894 |
 
 ## Dominio de aplicación
 
