@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+
+# Datos pesados / modelos
+*.h5
+*.pt
+*.pth
+*.onnx
+*.weights
+Datos/raw/
+Datos/*.zip
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Credenciales (nunca deben subirse)
+.env
+*.key
+*credentials*
