@@ -28,7 +28,7 @@ Visión computacional.
 
 | Carpeta | Contenido |
 | --- | --- |
-| [`Datos/`](Datos) | Recortes de arándanos entregados por SOLID México, foto de la banda y etiquetas (bueno/malo y tipo de defecto). El README de la carpeta explica el origen, la estructura y qué datos permanecen en Drive. |
+| [`Datos/`](Datos) | Recortes de arándanos entregados por SOLID México, foto de la banda y etiquetas (bueno/malo y tipo de defecto). Las fotos originales completas están en [Google Drive](https://drive.google.com/drive/folders/1T0XX3baUZm01ZQCyKv2DAtOA38mpwXWF) (acceso restringido); el README de la carpeta explica el origen, la estructura y cómo usarlas. |
 | [`Notebooks/`](Notebooks) | Libreta del Avance 1 ([`Avance1.Equipo6.ipynb`](Notebooks/Avance1.Equipo6.ipynb)): arquitectura del sistema, memoria de cálculo, selección de componentes y análisis del dataset. |
 | [`Documentacion/`](Documentacion) | Entregables y documentos de seguimiento: datos generales del proyecto (Semana 1) e instrucciones de etiquetado. |
 
