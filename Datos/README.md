@@ -11,23 +11,6 @@ Imágenes de arándanos entregadas por **SOLID México** para el proyecto Berry-
 | [`muestras/muestra_01.jpg`](muestras/muestra_01.jpg) | Fotografía de la banda con muchos arándanos a la vez (vista de la máquina). |
 | [`resultados_avance1/`](resultados_avance1) | Tablas agregadas generadas por la libreta (manifiestos y plantilla de etiquetado). |
 
-## Imágenes completas en Google Drive
-
-Por su tamaño (≈2 GB), las imágenes completas no están en este repositorio. Viven en la carpeta compartida del equipo:
-
-**[Semana3 en Google Drive](https://drive.google.com/drive/folders/1T0XX3baUZm01ZQCyKv2DAtOA38mpwXWF)** (acceso restringido: solicítelo al equipo).
-
-| En Drive | Contenido |
-|---|---|
-| `image/` | Fotos originales (PNG de 12 MP, 4032×3024). |
-| `output/` | Recortes entregados (versión más reciente). |
-| `Bondary/` | Imágenes con los límites detectados. |
-| `images/` | Foto de la banda (`muestra_01.jpg`). |
-| `etiquetas.csv` | Etiquetas de los recortes (hay una copia en este repositorio, en `Semana3/etiquetas.csv`). |
-| `extract_blueberries_otsu.py` | Extractor de recortes (Otsu + contornos). |
-
-**Para usarlas con la libreta en Google Colab:** en Drive, haga clic derecho sobre la carpeta `ProyectoIntegrador` → *Organize → Add shortcut → My Drive*. La libreta monta Drive y lee de `/content/drive/MyDrive/ProyectoIntegrador/Semana3`. Fuera de Colab, descargue la carpeta y apunte la variable `BERRY_DATA_DIR` a ella.
-
 ## Qué NO está en el repositorio (permanece en Drive del equipo)
 
 - Las **fotos originales** (`image/`): 161 PNG de 12 MP (4032×3024), unos 1.2 GB.
