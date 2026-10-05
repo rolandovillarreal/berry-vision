@@ -15,6 +15,13 @@ env/
 Datos/raw/
 Datos/*.zip
 
+# Imágenes de SOLID México: se publican con su autorización solo los recortes entregados (Datos/Semana3/output/) y la foto de banda (Datos/muestras/).
+# Las fotos originales (12 MP), las imágenes de límites y los recortes regenerados se quedan en Drive por tamaño.
+Datos/Semana3/image/
+Datos/Semana3/Bondary/
+Datos/imagenes/
+Datos/recortes_locales/
+
 # Sistema
 .DS_Store
 Thumbs.db
