@@ -38,6 +38,8 @@ Visión computacional.
 | --- | --- | --- |
 | 1 | Planteamiento del proyecto | [`Documentacion/DatosGenerales.6.docx`](Documentacion/DatosGenerales.6.docx) |
 | 3 | Avance 1. Arquitectura, integración y selección de componentes del sistema | [`Notebooks/Avance1.Equipo6.ipynb`](Notebooks/Avance1.Equipo6.ipynb) |
+| 4 | Avance 2. Ingeniería de características (generación, codificación, transformación, escalamiento, selección y extracción) | [`Notebooks/Avance2.Equipo6.ipynb`](Notebooks/Avance2.Equipo6.ipynb) |
+| 5 | Avance 3. Modelo de referencia (*baseline*): regresión logística, importancia de características, sub/sobreajuste, métrica y desempeño mínimo | [`Notebooks/Avance3.Equipo6.ipynb`](Notebooks/Avance3.Equipo6.ipynb) · tablas en [`Datos/resultados_avance3/`](Datos/resultados_avance3) |
 
 ## Estado
 
