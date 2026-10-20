@@ -1,0 +1,9 @@
+modelo,AP,ROC_AUC,Prec@Rec80,AP_desv,ajuste_ms,pred_ms_por_fruto,rango_AP,tipo
+Regresión logística,0.756,0.8206,0.5937,0.0485,11.0806,0.0152,1,referencia (A3)
+LDA,0.7513,0.8196,0.6232,0.0546,1.2269,0.0123,2,alternativo
+MLP,0.7418,0.8025,0.549,0.0504,208.6232,0.0172,3,alternativo
+SVM RBF,0.7368,0.7955,0.5887,0.0525,7.9007,0.0239,4,alternativo
+Naive Bayes,0.7191,0.7854,0.5205,0.0518,1.2234,0.0128,5,alternativo
+kNN,0.6927,0.7813,0.4697,0.0663,0.9996,0.0223,6,alternativo
+Árbol de decisión,0.6914,0.7361,0.4226,0.0788,2.0161,0.0123,7,alternativo
+Dummy (prior),0.3585,0.482,0.3682,0.0162,0.4145,0.0025,8,sin aprendizaje

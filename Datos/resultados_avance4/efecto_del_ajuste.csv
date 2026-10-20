@@ -1,0 +1,5 @@
+modelo,versión,AP_train,AP_CV,AP_CV_desv,AP_val,ROC_AUC_val,Prec@Rec80_val,brecha_train−CV,ajuste_ms
+LDA,sin ajustar,0.8032,0.7513,0.0546,0.5483,0.6013,0.3824,0.0519,1.3892
+LDA,ajustado,0.7851,0.7494,0.0508,0.5237,0.5474,0.3721,0.0357,1.7853
+SVM RBF,sin ajustar,0.8731,0.7368,0.0525,0.5829,0.6293,0.4516,0.1363,7.9003
+SVM RBF,ajustado,0.9208,0.7984,0.0333,0.623,0.6379,0.3889,0.1224,9.4073

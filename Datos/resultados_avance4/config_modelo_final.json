@@ -1,0 +1,21 @@
+{
+ "modelo_final": "LDA",
+ "finalistas": [
+  "LDA",
+  "SVM RBF"
+ ],
+ "umbral": 0.21158525729458244,
+ "params": {
+  "shrinkage": 0.07697990982879299,
+  "solver": "lsqr"
+ },
+ "n_iter": {
+  "LDA": 120,
+  "Naive Bayes": 120,
+  "kNN": 120,
+  "\u00c1rbol de decisi\u00f3n": 120,
+  "SVM RBF": 120,
+  "MLP": 60
+ },
+ "seed": 42
+}
