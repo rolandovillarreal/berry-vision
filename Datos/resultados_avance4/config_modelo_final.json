@@ -1,13 +1,14 @@
 {
- "modelo_final": "LDA",
+ "modelo_final": "ResNet18 + reg. log\u00edstica",
  "finalistas": [
-  "LDA",
-  "SVM RBF"
+  "ResNet18 + reg. log\u00edstica",
+  "LDA"
  ],
- "umbral": 0.21158525729458244,
+ "umbral": 0.4118349254131317,
  "params": {
-  "shrinkage": 0.07697990982879299,
-  "solver": "lsqr"
+  "clf__C": 0.007581900067709797,
+  "clf__class_weight": "balanced",
+  "pca__n_components": 128
  },
  "n_iter": {
   "LDA": 120,
@@ -15,7 +16,9 @@
   "kNN": 120,
   "\u00c1rbol de decisi\u00f3n": 120,
   "SVM RBF": 120,
-  "MLP": 60
+  "MLP": 60,
+  "ResNet18 + reg. log\u00edstica": 120,
+  "CNN propia": 20
  },
  "seed": 42
 }
