@@ -4,11 +4,11 @@
   "ResNet18 + reg. log\u00edstica",
   "LDA"
  ],
- "umbral": 0.4118349254131317,
+ "umbral": 0.30135894303473143,
  "params": {
-  "clf__C": 0.007581900067709797,
-  "clf__class_weight": "balanced",
-  "pca__n_components": 128
+  "clf__C": 0.01625772852521623,
+  "clf__class_weight": null,
+  "pca__n_components": 32
  },
  "n_iter": {
   "LDA": 120,

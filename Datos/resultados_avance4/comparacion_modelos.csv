@@ -1,11 +1,11 @@
 modelo,AP,ROC_AUC,Prec@Rec80,AP_desv,ajuste_ms,pred_ms_por_fruto,rango_AP,tipo
-ResNet18 + reg. logística,0.8451,0.8734,0.6877,0.0405,29.6821,14.1758,1,alternativo
-Regresión logística,0.756,0.8206,0.5937,0.0485,11.4233,0.0282,2,referencia (A3)
-LDA,0.7513,0.8196,0.6232,0.0546,2.151,0.019,3,alternativo
-MLP,0.7418,0.8025,0.549,0.0504,224.2349,0.0235,4,alternativo
-SVM RBF,0.7368,0.7955,0.5887,0.0525,7.885,0.0266,5,alternativo
-Naive Bayes,0.7191,0.7854,0.5205,0.0518,1.5037,0.0188,6,alternativo
-kNN,0.6927,0.7813,0.4697,0.0663,1.4416,0.0297,7,alternativo
-Árbol de decisión,0.6914,0.7361,0.4226,0.0788,2.6455,0.0151,8,alternativo
-CNN propia,0.6784,0.7637,0.5289,0.1032,21825.2669,1.4812,9,alternativo
-Dummy (prior),0.3585,0.482,0.3682,0.0162,0.4064,0.0027,10,sin aprendizaje
+ResNet18 + reg. logística,0.8593,0.8876,0.6947,0.0663,122.5694,72.6358,1,alternativo
+Regresión logística,0.7295,0.8062,0.5582,0.1186,8.499,0.0341,2,referencia (A3)
+LDA,0.7291,0.8066,0.6001,0.1219,8.2329,0.0234,3,alternativo
+SVM RBF,0.7174,0.7834,0.59,0.0934,12.0639,0.0387,4,alternativo
+Naive Bayes,0.7079,0.7844,0.5262,0.1015,1.7356,0.0259,5,alternativo
+Árbol de decisión,0.6884,0.7334,0.4245,0.103,4.1399,0.0239,6,alternativo
+MLP,0.6879,0.7768,0.5282,0.1177,312.3389,0.0283,7,alternativo
+kNN,0.6787,0.7784,0.5208,0.1039,1.8808,0.0417,8,alternativo
+CNN propia,0.6728,0.7584,0.5183,0.1058,66817.7141,5.0549,9,alternativo
+Dummy (prior),0.3346,0.4362,0.3682,0.0543,0.5091,0.0046,10,sin aprendizaje
